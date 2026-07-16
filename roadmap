@@ -1,0 +1,294 @@
+AI Learning Roadmap (Beginner to Advanced)
+
+Phase 1: Programming & Mathematics (2–3 weeks)
+Python
+
+Learn:
+
+Variables
+Loops
+Functions
+OOP
+File handling
+Exception handling
+Modules
+Virtual environments
+
+Practice:
+
+20–30 Python problems
+
+Resources:
+
+Python Official Tutorial
+FreeCodeCamp Python Course
+
+Mathematics for AI
+
+You don't need to become a mathematician.
+
+Learn:
+
+Linear Algebra
+Vectors
+Matrices
+Matrix multiplication
+Probability
+Mean
+Median
+Variance
+Probability
+Statistics
+Standard deviation
+Correlation
+Calculus (Basics)
+Derivatives
+Gradient intuition
+Phase 2: Artificial Intelligence Basics (1 week)
+
+Learn:
+
+What is AI?
+Types of AI
+Narrow AI
+General AI
+Super AI
+AI applications
+AI lifecycle
+Ethics in AI
+
+Understand the difference between:
+
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Generative AI
+Phase 3: Machine Learning (3–4 weeks)
+
+Learn:
+
+Data Preprocessing
+Missing values
+Encoding
+Scaling
+Train/Test Split
+Supervised Learning
+
+Algorithms
+
+Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+Support Vector Machine
+KNN
+Unsupervised Learning
+K-Means
+Hierarchical Clustering
+PCA
+Model Evaluation
+Accuracy
+Precision
+Recall
+F1 Score
+Confusion Matrix
+ROC Curve
+
+Libraries
+
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+
+Projects
+
+House Price Prediction
+Student Performance Prediction
+Spam Email Detection
+Phase 4: Deep Learning (3 weeks)
+
+Learn
+
+Neural Networks
+
+Perceptron
+Activation Functions
+Forward Propagation
+Backpropagation
+
+Framework
+
+TensorFlow
+Keras
+PyTorch
+
+Projects
+
+Digit Recognition
+Image Classification
+Cat vs Dog Classifier
+Phase 5: Natural Language Processing (2 weeks)
+
+Learn
+
+Tokenization
+Stemming
+Lemmatization
+TF-IDF
+Word Embeddings
+Transformers
+
+Libraries
+
+NLTK
+spaCy
+Hugging Face Transformers
+
+Projects
+
+Sentiment Analysis
+Chatbot
+Text Summarization
+Phase 6: Generative AI (3 weeks)
+
+Learn
+
+LLMs
+Prompt Engineering
+Embeddings
+Vector Databases
+Context Window
+Fine-tuning
+RAG
+
+Frameworks
+
+LangChain
+LlamaIndex
+Ollama
+OpenAI API
+
+Projects
+
+PDF Chatbot
+Resume Analyzer
+AI Research Assistant
+Phase 7: AI Agents
+
+Learn
+
+Agent Architecture
+Tool Calling
+Memory
+Multi-Agent Systems
+Planning
+Reflection
+
+Frameworks
+
+LangGraph
+CrewAI
+AutoGen
+
+Projects
+
+AI Coding Assistant
+AI Travel Planner
+AI Research Agent
+AI Interview Agent
+Phase 8: Computer Vision
+
+Learn
+
+OpenCV
+CNN
+Object Detection
+Image Segmentation
+
+Projects
+
+Face Detection
+Number Plate Detection
+Image Classification
+Phase 9: MLOps
+
+Learn
+
+Docker
+FastAPI
+MLflow
+Model Deployment
+Kubernetes (Basics)
+CI/CD
+
+Deploy
+
+AWS
+Docker
+GitHub Actions
+AI Libraries You Should Learn
+Python
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+TensorFlow
+PyTorch
+Hugging Face
+LangChain
+LangGraph
+LlamaIndex
+FAISS
+ChromaDB
+FastAPI
+Projects to Build
+Beginner
+Calculator using Python
+To-do App
+Data Analysis with Pandas
+Intermediate
+House Price Prediction
+Spam Detection
+Sentiment Analysis
+Recommendation System
+Advanced
+PDF Question Answering (RAG)
+AI Resume Reviewer
+AI Code Review Agent
+AI Customer Support Bot
+AI Research Assistant
+AI Interview Preparation Bot
+Multi-Agent System
+AI Voice Assistant
+Deployment Skills
+
+Learn
+
+Git
+GitHub
+Docker
+FastAPI
+AWS
+PostgreSQL
+Vector Database
+REST APIs
+Suggested Learning Timeline
+Month	Focus
+1	Python + Math + AI Basics
+2	Machine Learning
+3	Deep Learning + NLP
+4	Generative AI + RAG
+5	AI Agents + Vector Databases
+6	MLOps + Deployment + Portfolio Projects
+Final Goal
+
+By the end of this roadmap, you should be able to build and deploy projects like:
+
+AI Chatbot
+RAG-based PDF Question Answering
+AI Code Review Agent
+AI Resume Analyzer
+Multi-Agent AI System
+AI Voice Assistant
+AI Customer Support Agent
