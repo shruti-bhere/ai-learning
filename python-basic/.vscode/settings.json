@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./11_NumPy/04_array_"
+    ]
+}
