@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Environment Variables
+.env
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Matplotlib Cache
+.matplotlib/
+
+# Python Bytecode
+*.pyo
+*.pyd
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Pyre
+.pyre/
+
+# Cython
+cython_debug/
